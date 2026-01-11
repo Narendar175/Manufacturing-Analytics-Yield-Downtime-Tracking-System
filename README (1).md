@@ -90,7 +90,7 @@ Primary Analytical Views:
 
 </p>
 <p>
-  <a href="https://github.com/sure-trust/CHALLA-NARENDAR-g20-sql-and-powebi/blob/main/Final%20Capstone%20project/SURE%20Trust%20project%20document.docx" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Narendar175/Manufacturing-Analytics-Yield-Downtime-Tracking-System/blob/main/SURE%20Trust%20project%20document%20(1).docx" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
